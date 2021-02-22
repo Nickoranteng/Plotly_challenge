@@ -1,4 +1,4 @@
-# Week 15 (and 16) Plot.ly Mini-Project - Belly Button Biodiversity
+
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
