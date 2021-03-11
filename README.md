@@ -51,5 +51,8 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 * Update the chart whenever a new sample is selected.
 
+![image](https://user-images.githubusercontent.com/71161293/110718872-d4064880-81d9-11eb-9c0e-b027351c5b14.png)
+
+
 Use otu_labels as the hovertext for the chart.
 ![image](https://user-images.githubusercontent.com/71161293/110718545-298e2580-81d9-11eb-8fdb-04e8654948ff.png)
