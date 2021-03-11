@@ -1,5 +1,14 @@
 # belly_button_biodiversity
 
+# Programming Languages
+API
+
+JavaScript
+
+Python
+
+Json
+
 # Step 1: Develop an endpoint point using Flask (REQUIRED)
 
 1. Edit the `app.py` file and use Flask to serve up both your web application (through the default or root endpoint)
