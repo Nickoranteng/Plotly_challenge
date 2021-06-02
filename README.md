@@ -66,6 +66,8 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 * Update the chart whenever a new sample is selected.
 
+# Screen Shots
+
 ![image](https://user-images.githubusercontent.com/71161293/110718872-d4064880-81d9-11eb-9c0e-b027351c5b14.png)
 
 
