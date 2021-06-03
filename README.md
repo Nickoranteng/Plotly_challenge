@@ -1,19 +1,13 @@
-# belly_button_biodiversity
+# User Story
 
 Using JavaScript and Flask endpoint to build an interactive dashboard to explore the [Belly Button Biodiversity dataset] which catalogs the microbes that colonize human navels.
 
 
 # Programming Languages
 * JavaScript,
-* D3.js,
-* Python,
-* MySQL,
-* HTML,
-* Tableau,
-* Amazon Web Services,
-* Machine Learning,
-* Flask Endpoint,
-* Plotly.
+* Python
+* API
+* Json
 
 ## Step 1: Develop an endpoint point using Flask 
 
