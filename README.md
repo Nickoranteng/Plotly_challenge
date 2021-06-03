@@ -9,11 +9,18 @@ Using JavaScript and Flask endpoint to build an interactive dashboard to explore
 * API
 * Json
 
+# Project Description
+
 ## Step 1: Develop an endpoint point using Flask 
 
 ## Step 2: Build your Web Application with Plotly
 
 ## Step 3: Incorporate the Gauge Chart 
+
+
+# Data Source
+
+* Samples.json
 
 
 # Screen Shots
